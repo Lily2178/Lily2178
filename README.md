@@ -1,6 +1,6 @@
--👋 Hi, I’m @Lily2178
--👀 I’m interested in robotics, marketing, programming, watching anime, playing video games, and being apart of fandoms one of my favorites is the Five Nights at Freddy's
--🌱 I’m currently learning Java, Python, HTML and how to use Android Studio
--💞️ I’m looking to collaborate on things with people who are apart of the communities I enjoy.
--📫 How to reach me: aslope127823@gmail.com
--Have a wonderful day/afternoon/evening! <3
+- -👋 Hi, I’m @Lily2178
+- -👀 I’m interested in robotics, marketing, programming, watching anime, playing video games, and being apart of fandoms one of my favorites is the Five Nights at Freddy's
+- -🌱 I’m currently learning Java, Python, HTML and how to use Android Studio
+- -💞️ I’m looking to collaborate on things with people who are apart of the communities I enjoy.
+- -📫 How to reach me: aslope127823@gmail.com
+- -Have a wonderful day/afternoon/evening! <3
